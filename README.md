@@ -17,4 +17,19 @@ Consists of four components.
 - [ ] Preliminary retrieval functionality
 - [ ] Complete retrieval functionality
 - [ ] Cooperative retrieval functionality
+- [ ] furaffinity support
 
+- [ ] Symmetric similarity generation and storage
+
+- [ ] web interface for browsing database and similarities
+- [ ] framework for ipfs distribution
+- [ ] ipfs distribution
+
+- [ ] publish
+
+
+
+### Restrictions
+
+- limited to posts > 5 score and > 20 favcount
+- images are stored compressed, and not to exceed 20 Mpix
